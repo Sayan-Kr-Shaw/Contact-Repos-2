@@ -1,0 +1,65 @@
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\ContactsConsoleUI.deps.json
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\ContactsConsoleUI.runtimeconfig.json
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\ContactsConsoleUI.exe
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\appsettings.json
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Contact WebServices.exe
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Contact WebServices.deps.json
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Contact WebServices.runtimeconfig.json
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Contact WebServices.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\ref\Contact WebServices.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Contact WebServices.pdb
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\ContactsConsoleUI.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\ContactsDAL.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\ContactsConsoleUI.pdb
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\bin\Debug\net6.0\ContactsDAL.pdb
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\obj\Debug\net6.0\Contact WebServices.csproj.AssemblyReference.cache
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\obj\Debug\net6.0\Contact WebServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\obj\Debug\net6.0\Contact WebServices.AssemblyInfoInputs.cache
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\obj\Debug\net6.0\Contact WebServices.AssemblyInfo.cs
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\obj\Debug\net6.0\Contact WebServices.csproj.CoreCompileInputs.cache
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\obj\Debug\net6.0\Contact WebServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\obj\Debug\net6.0\Contact WebServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\obj\Debug\net6.0\scopedcss\bundle\Contact WebServices.styles.css
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\obj\Debug\net6.0\Contact WebServices.csproj.CopyComplete
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\obj\Debug\net6.0\Contact WebServices.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\obj\Debug\net6.0\ref\Contact WebServices.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\obj\Debug\net6.0\Contact WebServices.pdb
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\Contact WebServices\obj\Debug\net6.0\Contact WebServices.genruntimeconfig.cache

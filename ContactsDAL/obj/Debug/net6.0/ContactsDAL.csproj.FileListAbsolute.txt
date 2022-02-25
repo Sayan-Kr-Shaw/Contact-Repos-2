@@ -1,0 +1,13 @@
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\ContactsDAL\bin\Debug\net6.0\ContactsDAL.deps.json
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\ContactsDAL\bin\Debug\net6.0\ContactsDAL.runtimeconfig.json
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\ContactsDAL\bin\Debug\net6.0\ContactsDAL.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\ContactsDAL\bin\Debug\net6.0\ref\ContactsDAL.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\ContactsDAL\bin\Debug\net6.0\ContactsDAL.pdb
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\ContactsDAL\obj\Debug\net6.0\ContactsDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\ContactsDAL\obj\Debug\net6.0\ContactsDAL.AssemblyInfoInputs.cache
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\ContactsDAL\obj\Debug\net6.0\ContactsDAL.AssemblyInfo.cs
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\ContactsDAL\obj\Debug\net6.0\ContactsDAL.csproj.CoreCompileInputs.cache
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\ContactsDAL\obj\Debug\net6.0\ContactsDAL.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\ContactsDAL\obj\Debug\net6.0\ref\ContactsDAL.dll
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\ContactsDAL\obj\Debug\net6.0\ContactsDAL.pdb
+C:\Users\sayan\Desktop\Visual Studio Projects\Contacts.DataAccessLayer\ContactsDAL\obj\Debug\net6.0\ContactsDAL.genruntimeconfig.cache
